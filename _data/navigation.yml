@@ -17,8 +17,8 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog"
-    url: /blog/
+  #- title: "Blog"
+  #  url: /blog/
     
   - title: "CV"
     url: https://drive.google.com/file/d/1EsBCMXyYxokOLMtckVIz4h-Q15vMbZXd/view?usp=drive_link

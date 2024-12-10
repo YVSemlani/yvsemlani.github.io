@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About M"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I’m a fifth-year Computer Science PhD student at Stanford, advised by Prof. Chris Re and affiliated with the Stanford AI Lab, Statistical Machine Learning Group and Center for Research on Foundation Models (CRFM).
+I'm a first year undergraduate in Computer Science and Applied Mathematics at UNC Chapel Hill doing research under Dr. Gedas Bertasius. I'm interested in efficient approaches to long-context sequence modeling, particularly state-space models, and their applications to long-video understanding. Currently, I'm learning about GPU programming with the hope of developing a kernel for efficient training of Test Time Training layers.
 
-I’m interested in sequence modeling techniques for building large-scale foundation models, as well as problems that arise due to the deployment of ML models to practice. These days I’m also thinking about how the application of FMs will change computing interfaces in the coming decades, especially in fields that require deep, exploratory work like data science.
+When I'm not researching you will almost certainly find me playing poker! I'm the president and founder of (UNC Pokerbots)[https://uncpokerbots.com] a hackathon-style competition where students build automated pokerbots to play heads-up poker, and a member of the Carolina Poker Club's Intercollegiate Poker Association competition team.
